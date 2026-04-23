@@ -25,9 +25,7 @@
   <a href="https://instagram.com/amitbadiger26" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
-  <a href="https://www.youtube.com/c/codecrew@amitbadiger26" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" height="40"/>
-  </a>
+  
   <a href="https://www.leetcode.com/amitbadiger" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40"/>
   </a>
