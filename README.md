@@ -59,16 +59,3 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitbadiger-coder&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amitbadiger-coder&show_icons=true&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🔥 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=amitbadiger-coder&theme=tokyonight" />
-</p>
